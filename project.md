@@ -1,7 +1,7 @@
 # Silvestrovský "Screen Saver"
 ## Radislav Střílek
 ### GitHub: [Link na repo](https://github.com/Astat7/PRG_ScreenSaver_Project)
-"Screen Saver" bude vytvořený v Godotu. Pozadí bude noční obloha s hvězdami. Občas z dolní strany obrazovky vyletí rachejtle s trajektorijí křivky a po chvíli vybuchne. Z rachejtle se rozletí barevné pártikly do všech stran v různých "tvarech". Pomocí myši se dají rachejtle vystřelovat i manuálně.
+"Screen Saver" bude vytvořený v Godotu. Pozadí bude noční obloha s hvězdami. Občas z dolní strany obrazovky vyletí rachejtle s trajektorijí křivky a po chvíli vybuchne. Z rachejtle se rozletí barevné pártikly do všech stran. Pomocí myši se dají rachejtle vystřelovat i manuálně.
 ### Prerekvizity
 | Prerekvizita | Popis |
 | ----------- | ----------- |
